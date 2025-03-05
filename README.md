@@ -30,6 +30,3 @@ Google Chrome + Chromedriver
 🔹 Automatización de carga de datos desde archivos Excel.
 
 🔹 Extracción de información de páginas web para análisis.
-
-
-Este repositorio es ideal para quienes buscan mejorar sus habilidades en automatización de procesos y web scraping usando Python. 🚀
